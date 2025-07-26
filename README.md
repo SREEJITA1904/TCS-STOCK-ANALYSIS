@@ -37,7 +37,7 @@ Compare yearly opening and closing stock prices to understand how each year star
 
 ### 📸  Dashboard Snapshots:
 
-![TCS Stock Dashboard](dashboard.png)
+![TCS Stock Dashboard](https://github.com/SREEJITA1904/TCS-STOCK-ANALYSIS/raw/main/Snapshot%20dashboard.pdf)
 
 ---
 
