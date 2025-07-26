@@ -32,7 +32,7 @@ Breakdown of stock behavior over quarters and years, helping identify long-term 
 📊 **Stacked Column Chart & Bar Chart – Market Summary**
 Compare yearly opening and closing stock prices to understand how each year started and ended in terms of market sentiment.
 
-![TCS_Stock_Analysis Tabular charts](dashboard.png)
+![TCS_Stock_Analysis Tabular charts](https://github.com/SREEJITA1904/TCS-STOCK-ANALYSIS/raw/main/TABLE%20CHART.png)
 
 
 ---
