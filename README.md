@@ -25,7 +25,7 @@ Quick summary of vital metrics such as Highest Price, Lowest Price, Average Volu
 📈 **Line Charts (Day, Month, Quarter, Year)**
 Visualize TCS stock trends over different time frames using open, high, low, and close prices — making it easy to spot growth patterns and volatility.
 
-![TCS_Stock_Analysis line charts](dashboard.png)
+![TCS_Stock_Analysis line charts](https://github.com/SREEJITA1904/TCS-STOCK-ANALYSIS/raw/main/LINE%20CHARTS.png)
 
 📅 **Stock by Year & Quarter**
 Breakdown of stock behavior over quarters and years, helping identify long-term performance cycles.
