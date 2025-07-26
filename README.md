@@ -53,9 +53,10 @@ Compare yearly opening and closing stock prices to understand how each year star
 
 ---
 
-### 🙌 Let’s Connect!
+### 🧰 Tools & Tech Stack:
 
-If you found this useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sreejitaguha-dataanalyst/) or message me here on GitHub!
+* **Power BI** (Data Visualization)
+* **Microsoft Excel** / **CSV** (Data Cleaning)
 
 ---
 
@@ -65,10 +66,8 @@ If you found this useful or have feedback, feel free to connect with me on [Link
 
 ---
 
-### 🧰 Tools & Tech Stack:
+### 🙌 Let’s Connect!
 
-* **Power BI** (Data Visualization)
-* **Microsoft Excel** / **CSV** (Data Cleaning)
+If you found this useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sreejitaguha-dataanalyst/) or message me here on GitHub!
 
 ---
-
