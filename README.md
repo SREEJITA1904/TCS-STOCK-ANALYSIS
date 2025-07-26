@@ -20,7 +20,7 @@ Here are the key visuals and insights presented in the TCS Stock Analysis Power 
 ✅ **KPI Cards**
 Quick summary of vital metrics such as Highest Price, Lowest Price, Average Volume, and Growth over Time.
 
-![TCS Stock Analysis KPI's](dashboard.png)
+![TCS Stock Analysis KPI's](https://github.com/SREEJITA1904/TCS-STOCK-ANALYSIS/raw/main/KPI'S%20%26%20BAR%20CHARTS.png)
 
 📈 **Line Charts (Day, Month, Quarter, Year)**
 Visualize TCS stock trends over different time frames using open, high, low, and close prices — making it easy to spot growth patterns and volatility.
