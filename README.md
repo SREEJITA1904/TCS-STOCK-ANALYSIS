@@ -19,25 +19,27 @@ Welcome to my **TCS Stock Analysis Project**, where I’ve built a dynamic Power
 Here are the key visuals and insights presented in the TCS Stock Analysis Power BI Dashboard:
 ✅ **KPI Cards**
 Quick summary of vital metrics such as Highest Price, Lowest Price, Average Volume, and Growth over Time.
+
+![TCS Stock Analysis KPI's](dashboard.png)
+
 📈 **Line Charts (Day, Month, Quarter, Year)**
 Visualize TCS stock trends over different time frames using open, high, low, and close prices — making it easy to spot growth patterns and volatility.
+
+![TCS_Stock_Analysis line charts](dashboard.png)
+
 📅 **Stock by Year & Quarter**
 Breakdown of stock behavior over quarters and years, helping identify long-term performance cycles.
-📊 **Stacked Column Chart – Market Summary**
+📊 **Stacked Column Chart & Bar Chart – Market Summary**
 Compare yearly opening and closing stock prices to understand how each year started and ended in terms of market sentiment.
 
----
+![TCS_Stock_Analysis Tabular charts](dashboard.png)
 
-### 🧰 Tools & Tech Stack:
-
-* **Power BI** (Data Visualization)
-* **Microsoft Excel** / **CSV** (Data Cleaning)
 
 ---
 
 ### 📸  Dashboard Snapshots:
 
-![TCS Stock Dashboard](https://github.com/SREEJITA1904/TCS-STOCK-ANALYSIS/raw/main/Snapshot%20dashboard.pdf)
+![TCS Stock Dashboard](https://github.com/SREEJITA1904/TCS-STOCK-ANALYSIS/raw/main/Dashboard%20Snapshot)
 
 ---
 
@@ -63,13 +65,10 @@ If you found this useful or have feedback, feel free to connect with me on [Link
 
 ---
 
-## 📊 Dashboard Preview
+### 🧰 Tools & Tech Stack:
 
-![TCS Stock Dashboard](dashboard.png)
+* **Power BI** (Data Visualization)
+* **Microsoft Excel** / **CSV** (Data Cleaning)
 
-![TCS_Stock_Analysis line charts](dashboard.png)
-
-![TCS_Stock_Analysis Tabular charts](dashboard.png)
-
-
+---
 
